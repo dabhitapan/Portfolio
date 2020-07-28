@@ -633,7 +633,7 @@ const experience = {
 					duration: "July 2019 - PRESENT",
 					location: "Work From Home",
 					description:
-						"I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating peoper documentation for project.",
+						"I am actively contributing to many opensource projects. These contributions include bug fixes, feature requests and formulating peoper documentation for project.",
 					color: "#181717",
 				},
 			],
