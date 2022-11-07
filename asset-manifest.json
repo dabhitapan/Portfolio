@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.2d9b9b0e.chunk.css",
-    "main.js": "/Portfolio/static/js/main.7215fb67.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.7215fb67.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.4cb3905f.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.4cb3905f.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.5723c9d4.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.5723c9d4.js.map",
-    "static/js/2.1bc7fa6e.chunk.js": "/Portfolio/static/js/2.1bc7fa6e.chunk.js",
-    "static/js/2.1bc7fa6e.chunk.js.map": "/Portfolio/static/js/2.1bc7fa6e.chunk.js.map",
+    "static/js/2.90540c54.chunk.js": "/Portfolio/static/js/2.90540c54.chunk.js",
+    "static/js/2.90540c54.chunk.js.map": "/Portfolio/static/js/2.90540c54.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.70df888a5bd75064b361553d7274a64f.js": "/Portfolio/precache-manifest.70df888a5bd75064b361553d7274a64f.js",
+    "precache-manifest.7795a578df9c99fa98e4bf95906eafb5.js": "/Portfolio/precache-manifest.7795a578df9c99fa98e4bf95906eafb5.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/main.2d9b9b0e.chunk.css.map": "/Portfolio/static/css/main.2d9b9b0e.chunk.css.map",
     "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -16,6 +16,7 @@
     "static/media/animated_logo.svg": "/Portfolio/static/media/animated_logo.a633be2f.svg",
     "static/media/blogs_image.svg": "/Portfolio/static/media/blogs_image.b6b12c7d.svg",
     "static/media/brossard_logo.ico": "/Portfolio/static/media/brossard_logo.ea421bad.ico",
+    "static/media/clickatell_logo.svg": "/Portfolio/static/media/clickatell_logo.2782d039.svg",
     "static/media/cloud_infrastructure.svg": "/Portfolio/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/Portfolio/static/media/codeInLogo.b3685be8.png",
     "static/media/contactMail.png": "/Portfolio/static/media/contactMail.d6d4086f.png",
@@ -52,12 +53,15 @@
     "static/media/talksCardBackAlt.svg": "/Portfolio/static/media/talksCardBackAlt.7f0feeed.svg",
     "static/media/tapan.jpg": "/Portfolio/static/media/tapan.406c1188.jpg",
     "static/media/tapan_logo.png": "/Portfolio/static/media/tapan_logo.b6c8d9e2.png",
+    "static/media/tapan_logo_circled.png": "/Portfolio/static/media/tapan_logo_circled.7e17e79e.png",
+    "static/media/tapan_new_logo.jpg": "/Portfolio/static/media/tapan_new_logo.92a98509.jpg",
+    "static/media/timeb_logo.svg": "/Portfolio/static/media/timeb_logo.76b15e52.svg",
     "static/media/ui_ux_design.svg": "/Portfolio/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5723c9d4.js",
-    "static/js/2.1bc7fa6e.chunk.js",
+    "static/js/2.90540c54.chunk.js",
     "static/css/main.2d9b9b0e.chunk.css",
-    "static/js/main.7215fb67.chunk.js"
+    "static/js/main.4cb3905f.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69470dfb2072e277d560f355148d25ff",
+    "revision": "f4b7715faf5ad4b2fe07bc97f07e5de9",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "7cef1eb5f726a3f8ce9c",
+    "revision": "8550309a81a5110ee7e8",
     "url": "/Portfolio/static/css/main.2d9b9b0e.chunk.css"
   },
   {
-    "revision": "90d66baebd4f1b674d26",
-    "url": "/Portfolio/static/js/2.1bc7fa6e.chunk.js"
+    "revision": "1ac544f157f4ba2a869d",
+    "url": "/Portfolio/static/js/2.90540c54.chunk.js"
   },
   {
-    "revision": "7cef1eb5f726a3f8ce9c",
-    "url": "/Portfolio/static/js/main.7215fb67.chunk.js"
+    "revision": "8550309a81a5110ee7e8",
+    "url": "/Portfolio/static/js/main.4cb3905f.chunk.js"
   },
   {
     "revision": "2516955c04bfe1f64103",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ea421badbe3026c8add07ae605d77426",
     "url": "/Portfolio/static/media/brossard_logo.ea421bad.ico"
+  },
+  {
+    "revision": "2782d0394c3cda48df5b77ab40f79810",
+    "url": "/Portfolio/static/media/clickatell_logo.2782d039.svg"
   },
   {
     "revision": "dfcb7a585547c0b125d208b980d6f57f",
@@ -266,6 +270,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6c8d9e26b50c139b8e68887775f09cb",
     "url": "/Portfolio/static/media/tapan_logo.b6c8d9e2.png"
+  },
+  {
+    "revision": "7e17e79ea1b1cc5d5bd0870a6e0b0e70",
+    "url": "/Portfolio/static/media/tapan_logo_circled.7e17e79e.png"
+  },
+  {
+    "revision": "92a9850979fc82e0eb8fe7d7258dd0e0",
+    "url": "/Portfolio/static/media/tapan_new_logo.92a98509.jpg"
+  },
+  {
+    "revision": "76b15e52e0c8d6855f5957889a9ca3f6",
+    "url": "/Portfolio/static/media/timeb_logo.76b15e52.svg"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
