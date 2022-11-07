@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true,  // Change this to false if you don't want Splash screen.
+	isSplash: true,  // Change this to false if you don't want Splash screen.
 };
 
 
@@ -14,7 +14,7 @@ const greeting = {
 	subTitle:
 		"A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
 	resumeLink:
-		"https://drive.google.com/file/d/1cQ4tLHD2QDJY3tj7E-eoin_muk53_k0I/view?usp=sharing",
+		"https://drive.google.com/file/d/1m5LGv6id7LmTD3h3JG7iKl9XRILW2BrA/view?usp=sharing",
 	portfolio_repository: "https://github.com/dabhitapan/Portfolio",
 };
 
@@ -30,341 +30,334 @@ const socialMediaLinks = {
 };
 
 const skills = {
-  data: [
-	{
-		title: "Full Stack Development",
-		fileName: "FullStackImg",
-		skills: [
-		  "⚡ Building resposive website front end using React, Angular",
-		  "⚡ Developing mobile applications using React Native and solo android apps using Java",
-		  "⚡ Creating application backend in Java(Sprint-Boot), PHP(Laravel),"
-		],
-		softwareSkills: [
-		  {
-			skillName: "HTML5",
-			fontAwesomeClassname: "simple-icons:html5",
-			style: {
-			  color: "#E34F26"
-			}
-		  },
-		  {
-			skillName: "CSS3",
-			fontAwesomeClassname: "fa-css3",
-			style: {
-			  color: "#1572B6"
-			}
-		  },
-		  {
-			skillName: "Bootstrap",
-			fontAwesomeClassname: "simple-icons:bootstrap",
-			style: {
-			  color: "#663399"
-			}
-		  },
-		  {
-			skillName: "Sass",
-			fontAwesomeClassname: "simple-icons:sass",
-			style: {
-			  color: "#CC6699"
-			}
-		  },
-		  {
-			skillName: "JavaScript",
-			fontAwesomeClassname: "simple-icons:javascript",
-			style: {
-			  backgroundColor: "#000000",
-			  color: "#F7DF1E"
-			}
-		  },
-		  {
-			skillName: "Jquery",
-			fontAwesomeClassname: "simple-icons:jquery",
-			style: {
-			  backgroundColor: "#fff",
-			  color: "#0765A8"
-			}
-		  },
-		  {
-			skillName: "React-Native",
-			fontAwesomeClassname: "simple-icons:react",
-			style: {
-			  color: "#029FCE"
-			}
-		  },
-		  {
-			skillName: "Android",
-			fontAwesomeClassname: "simple-icons:android",
-			style: {
-			  color: "#3DDC84"
-			}
-		  },
-		  {
-			skillName: "Java",
-			fontAwesomeClassname: "simple-icons:java",
-			style: {
-			  color: "#f89820"
-			}
-		  },
-		  {
-			skillName: "PHP",
-			fontAwesomeClassname: "simple-icons:php",
-			style: {
-			  color: "#8993be"
-			}
-		  },
-		  {
-			skillName: "Visual Basic",
-			fontAwesomeClassname: "simple-icons:dot-net",
-			style: {
-			  color: "#029FCE"
-			}
-		  },
-		  {
-			skillName: "Sprint-Boot",
-			fontAwesomeClassname: "simple-icons:spring",
-			style: {
-			  color: "#71B544"
-			}
-		  },
-		  {
-			skillName: "Laravel",
-			fontAwesomeClassname: "simple-icons:laravel",
-			style: {
-			  color: "#FF2C1F"
-			}
-		  },
-		  {
-			skillName: "MySQL",
-			fontAwesomeClassname: "simple-icons:mysql",
-			style: {
-			  color: "#4479A1"
-			}
-		  },
-		  {
-			skillName: "Wordpress",
-			fontAwesomeClassname: "simple-icons:wordpress",
-			style: {
-			  color: "#207297"
-			}
-		  },
-		  {
-			skillName: "Apache",
-			fontAwesomeClassname: "simple-icons:apache",
-			style: {
-			  color: "#CA1A22"
-			}
-		  },
-		  {
-			skillName: "NGINX",
-			fontAwesomeClassname: "simple-icons:nginx",
-			style: {
-			  color: "#009237"
-			}
-		  },
-		  {
-			skillName: "Git",
-			fontAwesomeClassname: "simple-icons:git",
-			style: {
-			  color: "#E94E32"
-			}
-		  },
-		  {
-			skillName: "ReactJS",
-			fontAwesomeClassname: "simple-icons:react",
-			style: {
-			  color: "#61DAFB"
-			}
-		  },
-		  {
-			skillName: "NodeJS",
-			fontAwesomeClassname: "simple-icons:node-dot-js",
-			style: {
-			  color: "#339933"
-			}
-		  },
-		  {
-			skillName: "NPM",
-			fontAwesomeClassname: "simple-icons:npm",
-			style: {
-			  color: "#CB3837"
-			}
-		  },
-		  {
-			skillName: "Yarn",
-			fontAwesomeClassname: "simple-icons:yarn",
-			style: {
-			  color: "#2C8EBB"
-			}
-		  },
-		  {
-			skillName: "Angular",
-			fontAwesomeClassname: "simple-icons:angular",
-			style: {
-			  color: "#dd1b16"
-			}
-		  },
-		  {
-			skillName: "AngularJs",
-			fontAwesomeClassname: "simple-icons:angularjs",
-			style: {
-			  color: "#dd1b16"
-			}
-		  },
-		  {
-			skillName: "Flutter",
-			fontAwesomeClassname: "simple-icons:flutter",
-			style: {
-			  color: "#02569B"
-			}
-		  }
-		]
-	  },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
-      ],
-      softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4"
-          }
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900"
-          }
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6"
-          }
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28"
-          }
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791"
-          }
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248"
-          }
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6"
-          }
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5"
-          }
-        }
-      ]
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Creating the flow of application functionalities to optimize user experience"
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2"
-          }
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E"
-          }
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00"
-          }
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000"
-          }
-        }
-      ]
-	},
-	{
-		title: "Data Science & AI",
-		fileName: "DataScienceImg",
-		skills: [
-		  "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-		  "⚡ Experience of working with Computer Vision and NLP projects",
-		],
-		softwareSkills: [
-		  {
-			skillName: "Tensorflow",
-			fontAwesomeClassname: "logos-tensorflow",
-			style: {
-			  backgroundColor: "transparent"
-			}
-		  },
-		  {
-			skillName: "Keras",
-			fontAwesomeClassname: "simple-icons:keras",
-			style: {
-			  backgroundColor: "white",
-			  color: "#D00000"
-			}
-		  },
-		  {
-			skillName: "PyTorch",
-			fontAwesomeClassname: "logos-pytorch",
-			style: {
-			  backgroundColor: "transparent"
-			}
-		  },
-		  {
-			skillName: "Python",
-			fontAwesomeClassname: "ion-logo-python",
-			style: {
-			  backgroundColor: "transparent",
-			  color: "#3776AB"
-			}
-		  }
-		]
-	  }
-  ]
+	data: [
+		{
+			title: "Full Stack Development",
+			fileName: "FullStackImg",
+			skills: [
+				"⚡ Building resposive website front end using React, Angular",
+				"⚡ Developing mobile applications using React Native and solo android apps using Java",
+				"⚡ Creating application backend in Java(Sprint-Boot), PHP(Laravel),"
+			],
+			softwareSkills: [
+				{
+					skillName: "HTML5",
+					fontAwesomeClassname: "simple-icons:html5",
+					style: {
+						color: "#E34F26"
+					}
+				},
+				{
+					skillName: "CSS3",
+					fontAwesomeClassname: "fa-css3",
+					style: {
+						color: "#1572B6"
+					}
+				},
+				{
+					skillName: "Bootstrap",
+					fontAwesomeClassname: "simple-icons:bootstrap",
+					style: {
+						color: "#663399"
+					}
+				},
+				{
+					skillName: "Sass",
+					fontAwesomeClassname: "simple-icons:sass",
+					style: {
+						color: "#CC6699"
+					}
+				},
+				{
+					skillName: "JavaScript",
+					fontAwesomeClassname: "simple-icons:javascript",
+					style: {
+						backgroundColor: "#000000",
+						color: "#F7DF1E"
+					}
+				},
+				{
+					skillName: "Jquery",
+					fontAwesomeClassname: "simple-icons:jquery",
+					style: {
+						backgroundColor: "#fff",
+						color: "#0765A8"
+					}
+				},
+				{
+					skillName: "React-Native",
+					fontAwesomeClassname: "simple-icons:react",
+					style: {
+						color: "#029FCE"
+					}
+				},
+				{
+					skillName: "Android",
+					fontAwesomeClassname: "simple-icons:android",
+					style: {
+						color: "#3DDC84"
+					}
+				},
+				{
+					skillName: "Java",
+					fontAwesomeClassname: "simple-icons:java",
+					style: {
+						color: "#f89820"
+					}
+				},
+				{
+					skillName: "PHP",
+					fontAwesomeClassname: "simple-icons:php",
+					style: {
+						color: "#8993be"
+					}
+				},
+				{
+					skillName: "Visual Basic",
+					fontAwesomeClassname: "simple-icons:dot-net",
+					style: {
+						color: "#029FCE"
+					}
+				},
+				{
+					skillName: "Sprint-Boot",
+					fontAwesomeClassname: "simple-icons:spring",
+					style: {
+						color: "#71B544"
+					}
+				},
+				{
+					skillName: "Laravel",
+					fontAwesomeClassname: "simple-icons:laravel",
+					style: {
+						color: "#FF2C1F"
+					}
+				},
+				{
+					skillName: "MySQL",
+					fontAwesomeClassname: "simple-icons:mysql",
+					style: {
+						color: "#4479A1"
+					}
+				},
+				{
+					skillName: "Wordpress",
+					fontAwesomeClassname: "simple-icons:wordpress",
+					style: {
+						color: "#207297"
+					}
+				},
+				{
+					skillName: "Apache",
+					fontAwesomeClassname: "simple-icons:apache",
+					style: {
+						color: "#CA1A22"
+					}
+				},
+				{
+					skillName: "NGINX",
+					fontAwesomeClassname: "simple-icons:nginx",
+					style: {
+						color: "#009237"
+					}
+				},
+				{
+					skillName: "Git",
+					fontAwesomeClassname: "simple-icons:git",
+					style: {
+						color: "#E94E32"
+					}
+				},
+				{
+					skillName: "ReactJS",
+					fontAwesomeClassname: "simple-icons:react",
+					style: {
+						color: "#61DAFB"
+					}
+				},
+				{
+					skillName: "NodeJS",
+					fontAwesomeClassname: "simple-icons:node-dot-js",
+					style: {
+						color: "#339933"
+					}
+				},
+				{
+					skillName: "NPM",
+					fontAwesomeClassname: "simple-icons:npm",
+					style: {
+						color: "#CB3837"
+					}
+				},
+				{
+					skillName: "Yarn",
+					fontAwesomeClassname: "simple-icons:yarn",
+					style: {
+						color: "#2C8EBB"
+					}
+				},
+				{
+					skillName: "Angular",
+					fontAwesomeClassname: "simple-icons:angular",
+					style: {
+						color: "#dd1b16"
+					}
+				},
+				{
+					skillName: "AngularJs",
+					fontAwesomeClassname: "simple-icons:angularjs",
+					style: {
+						color: "#dd1b16"
+					}
+				},
+				{
+					skillName: "Flutter",
+					fontAwesomeClassname: "simple-icons:flutter",
+					style: {
+						color: "#02569B"
+					}
+				}
+			]
+		},
+		{
+			title: "Cloud Infra-Architecture",
+			fileName: "CloudInfraImg",
+			skills: [
+				"⚡ Experience working on multiple cloud platforms",
+				"⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+				"⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
+			],
+			softwareSkills: [
+				{
+					skillName: "GCP",
+					fontAwesomeClassname: "simple-icons:googlecloud",
+					style: {
+						color: "#4285F4"
+					}
+				},
+				{
+					skillName: "AWS",
+					fontAwesomeClassname: "simple-icons:amazonaws",
+					style: {
+						color: "#FF9900"
+					}
+				},
+				{
+					skillName: "Azure",
+					fontAwesomeClassname: "simple-icons:microsoftazure",
+					style: {
+						color: "#0089D6"
+					}
+				},
+				{
+					skillName: "Firebase",
+					fontAwesomeClassname: "simple-icons:firebase",
+					style: {
+						color: "#FFCA28"
+					}
+				},
+				{
+					skillName: "PostgreSQL",
+					fontAwesomeClassname: "simple-icons:postgresql",
+					style: {
+						color: "#336791"
+					}
+				},
+				{
+					skillName: "MongoDB",
+					fontAwesomeClassname: "simple-icons:mongodb",
+					style: {
+						color: "#47A248"
+					}
+				},
+				{
+					skillName: "Docker",
+					fontAwesomeClassname: "simple-icons:docker",
+					style: {
+						color: "#1488C6"
+					}
+				},
+				{
+					skillName: "Kubernetes",
+					fontAwesomeClassname: "simple-icons:kubernetes",
+					style: {
+						color: "#326CE5"
+					}
+				}
+			]
+		},
+		{
+			title: "UI/UX Design",
+			fileName: "DesignImg",
+			skills: [
+				"⚡ Designing highly attractive user interface for mobile and web applications",
+				"⚡ Creating the flow of application functionalities to optimize user experience"
+			],
+			softwareSkills: [
+				{
+					skillName: "Figma",
+					fontAwesomeClassname: "simple-icons:figma",
+					style: {
+						color: "#F24E1E"
+					}
+				},
+				{
+					skillName: "Zeplin",
+					fontAwesomeClassname: "logos:zeplin",
+					style: {
+						color: "#FDBD39"
+					}
+				},
+				{
+					skillName: "Avocode",
+					fontAwesomeClassname: "openmoji:avocado",
+					style: {
+						color: "#06976E"
+					}
+				}
+			]
+		},
+		{
+			title: "Data Science & AI",
+			fileName: "DataScienceImg",
+			skills: [
+				"⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+				"⚡ Experience of working with Computer Vision and NLP projects",
+			],
+			softwareSkills: [
+				{
+					skillName: "Tensorflow",
+					fontAwesomeClassname: "logos-tensorflow",
+					style: {
+						backgroundColor: "transparent"
+					}
+				},
+				{
+					skillName: "Keras",
+					fontAwesomeClassname: "simple-icons:keras",
+					style: {
+						backgroundColor: "white",
+						color: "#D00000"
+					}
+				},
+				{
+					skillName: "PyTorch",
+					fontAwesomeClassname: "logos-pytorch",
+					style: {
+						backgroundColor: "transparent"
+					}
+				},
+				{
+					skillName: "Python",
+					fontAwesomeClassname: "ion-logo-python",
+					style: {
+						backgroundColor: "transparent",
+						color: "#3776AB"
+					}
+				}
+			]
+		}
+	]
 };
 
 
@@ -372,21 +365,21 @@ const skills = {
 
 
 const degrees = {
-  degrees : [
-    {
-      title: "Herzing College Montreal",
-      subtitle: "Post-Graduation Diploma in Programmer Analyst",
-      logo_path: "herzing_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2019 - 2020",
-      descriptions: [
-        "⚡ I have learned to write, modify, integrate and test computer code for a variety of computer and software applications and to determine the business application need for a computer system. ",
-        "⚡ Moreover, I have the knowledge, skills, in the popular programming languages and applications required in a software development environment.  Areas of study included Microsoft VB.Net applications, Object-oriented programming with JAVA, database design and development with SQL Server, Internet programming with JavaScript, PHP and mobile technologies.",
-        "⚡ Apart from this, I have done courses on Image Processing, Cloud Computing and Full Stack Development.",
-      ],
-      website_link: "https://www.herzing.ca/montreal/"
-    }
-  ]
+	degrees: [
+		{
+			title: "Herzing College Montreal",
+			subtitle: "Post-Graduation Diploma in Programmer Analyst",
+			logo_path: "herzing_logo.png",
+			alt_name: "IIITDM Kurnool",
+			duration: "2019 - 2020",
+			descriptions: [
+				"⚡ I have learned to write, modify, integrate and test computer code for a variety of computer and software applications and to determine the business application need for a computer system. ",
+				"⚡ Moreover, I have the knowledge, skills, in the popular programming languages and applications required in a software development environment.  Areas of study included Microsoft VB.Net applications, Object-oriented programming with JAVA, database design and development with SQL Server, Internet programming with JavaScript, PHP and mobile technologies.",
+				"⚡ Apart from this, I have done courses on Image Processing, Cloud Computing and Full Stack Development.",
+			],
+			website_link: "https://www.herzing.ca/montreal/"
+		}
+	]
 }
 
 const certifications = {
@@ -519,12 +512,35 @@ const experience = {
 					company: "Brossard App Design",
 					company_url: "https://brossarddesign.com/",
 					logo_path: "brossard_logo.ico",
-					duration: "Jan 2020 - PRESENT",
+					duration: "Jan 2020 - Dec 2020",
 					location: "Montreal, Canada",
 					description:
-						"Working as a full stack developer including Mobile, Web Apps and Backend with Brossard App Design, Montreal.",
+						"Working as a Full Stack Developer including Mobile, Web Apps, Cloud and Backend with Brossard App Design, Montreal.",
 					color: "#0879bf",
 				},
+				{
+					title: "Full-Stack Developer",
+					company: "TimeB",
+					company_url: "https://www.timeb.ca/",
+					logo_path: "timeb_logo.svg",
+					duration: "Mar 2020 - Jul 2021",
+					location: "Montreal, Canada",
+					description:
+						"Working as a Full Stack Developer including Mobile, Web Apps, Cloud and Backend with TimeB, Montreal.",
+					color: "#0879bf",
+				},
+				{
+					title: "Software Developer",
+					company: "Clickatell",
+					company_url: "https://www.clickatell.com/",
+					logo_path: "clickatell_logo.svg",
+					duration: "Jul 2021 - PRESENT",
+					location: "Toronto, Canada",
+					description:
+						"Working as a Software Developer including Web Apps on React and Angular with Clickatell, Toronto.",
+					color: "#0879bf",
+				},
+
 				// {
 				// 	title: "Android and ML Developer",
 				// 	company: "Muffito Incorporation",
@@ -613,6 +629,39 @@ const experience = {
 						"Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.",
 					color: "#000000",
 				},
+				{
+					title: "Hacktoberfest 2020",
+					company: "Digital Ocean",
+					company_url: "https://www.digitalocean.com/",
+					logo_path: "digitalOcean_logo.png",
+					duration: "Oct 2020",
+					location: "Montreal, Canada",
+					description:
+						"Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.",
+					color: "#000000",
+				},
+				{
+					title: "Hacktoberfest 2021",
+					company: "Digital Ocean",
+					company_url: "https://www.digitalocean.com/",
+					logo_path: "digitalOcean_logo.png",
+					duration: "Oct 2021",
+					location: "Toronto, Canada",
+					description:
+						"Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.",
+					color: "#000000",
+				},
+				{
+					title: "Hacktoberfest 2022",
+					company: "Digital Ocean",
+					company_url: "https://www.digitalocean.com/",
+					logo_path: "digitalOcean_logo.png",
+					duration: "Oct 2022",
+					location: "Toronto, Canada",
+					description:
+						"Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.",
+					color: "#000000",
+				},
 				// {
 				// 	title: "Developer Students Club Member",
 				// 	company: "DSC IIITDM Kurnool",
@@ -654,16 +703,16 @@ const projectsHeader = {
 const contactPageData = {
 	contactSection: {
 		title: "Contact Me",
-		profile_image_path: "tapan_logo.png",
+		profile_image_path: "tapan_logo_circled.png",
 		description:
-			"I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React-Native, Android, Web Development.",
+			"I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, React-Native, Angular, Android, Web Development.",
 	},
 	addressSection: {
 		title: "Address",
 		subtitle:
-			"5055 Roslyn Avenue, Montreal, Quebec - H3W 2L7",
+			"Toronto, Ontario, Canada",
 		avatar_image_path: "address_image.svg",
-		location_map_link: "https://goo.gl/maps/KApV5Dsb4uVcwopj7",
+		location_map_link: "https://goo.gl/maps/Mzj82yfV6C1KPRQB9",
 	},
 	phoneSection: {
 		title: "Phone Number",
