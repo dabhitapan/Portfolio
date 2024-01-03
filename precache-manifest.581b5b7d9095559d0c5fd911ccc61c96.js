@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d6f3a63b3845bc6df15ae751fd018a5",
+    "revision": "741fea24325de860bf4bd32981f1ebc6",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "d5fa6602157b98d98e89",
-    "url": "/Portfolio/static/css/main.2d9b9b0e.chunk.css"
+    "revision": "da06eb28490be464788a",
+    "url": "/Portfolio/static/css/main.8bbf800f.chunk.css"
   },
   {
-    "revision": "1ac544f157f4ba2a869d",
-    "url": "/Portfolio/static/js/2.90540c54.chunk.js"
+    "revision": "9eb330d4ed27797fd5b5",
+    "url": "/Portfolio/static/js/2.d8c4d1c0.chunk.js"
   },
   {
-    "revision": "d5fa6602157b98d98e89",
-    "url": "/Portfolio/static/js/main.3975afcc.chunk.js"
+    "revision": "da06eb28490be464788a",
+    "url": "/Portfolio/static/js/main.16990abb.chunk.js"
   },
   {
     "revision": "2516955c04bfe1f64103",
@@ -228,6 +228,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "441104121f45696d5db055686ef3f6f3",
+    "url": "/Portfolio/static/media/microsoft_azure.44110412.png"
+  },
+  {
+    "revision": "7f6723d8eb53cb8ea2507c5082bda117",
+    "url": "/Portfolio/static/media/microsoft_azure1.7f6723d8.png"
+  },
+  {
+    "revision": "3d6a2ad56bc3403c5cfcc3efe09b741b",
+    "url": "/Portfolio/static/media/microsoft_logo.3d6a2ad5.png"
+  },
+  {
+    "revision": "6d1ccdcc8e5bda04e8feaa67c094bd52",
+    "url": "/Portfolio/static/media/microsoft_logo1.6d1ccdcc.png"
+  },
+  {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
     "url": "/Portfolio/static/media/muffito_logo.db6c1c0d.png"
   },
@@ -266,6 +282,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "406c1188bf2fb9a1a9acc76c9de387cb",
     "url": "/Portfolio/static/media/tapan.406c1188.jpg"
+  },
+  {
+    "revision": "f9035f95e325470c3558c37bb87349e9",
+    "url": "/Portfolio/static/media/tapan_animated.f9035f95.gif"
   },
   {
     "revision": "b6c8d9e26b50c139b8e68887775f09cb",

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2d9b9b0e.chunk.css",
-    "main.js": "/Portfolio/static/js/main.3975afcc.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.3975afcc.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.8bbf800f.chunk.css",
+    "main.js": "/Portfolio/static/js/main.16990abb.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.16990abb.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.5723c9d4.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.5723c9d4.js.map",
-    "static/js/2.90540c54.chunk.js": "/Portfolio/static/js/2.90540c54.chunk.js",
-    "static/js/2.90540c54.chunk.js.map": "/Portfolio/static/js/2.90540c54.chunk.js.map",
+    "static/js/2.d8c4d1c0.chunk.js": "/Portfolio/static/js/2.d8c4d1c0.chunk.js",
+    "static/js/2.d8c4d1c0.chunk.js.map": "/Portfolio/static/js/2.d8c4d1c0.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.30c355236f4a526657c2103d8fe6e9a8.js": "/Portfolio/precache-manifest.30c355236f4a526657c2103d8fe6e9a8.js",
+    "precache-manifest.581b5b7d9095559d0c5fd911ccc61c96.js": "/Portfolio/precache-manifest.581b5b7d9095559d0c5fd911ccc61c96.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.2d9b9b0e.chunk.css.map": "/Portfolio/static/css/main.2d9b9b0e.chunk.css.map",
+    "static/css/main.8bbf800f.chunk.css.map": "/Portfolio/static/css/main.8bbf800f.chunk.css.map",
     "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/Portfolio/static/media/address_image.3b021f8f.svg",
     "static/media/animated_logo.svg": "/Portfolio/static/media/animated_logo.a633be2f.svg",
@@ -42,6 +42,10 @@
     "static/media/jsFramework.svg": "/Portfolio/static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "/Portfolio/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/Portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/microsoft_azure.png": "/Portfolio/static/media/microsoft_azure.44110412.png",
+    "static/media/microsoft_azure1.png": "/Portfolio/static/media/microsoft_azure1.7f6723d8.png",
+    "static/media/microsoft_logo.png": "/Portfolio/static/media/microsoft_logo.3d6a2ad5.png",
+    "static/media/microsoft_logo1.png": "/Portfolio/static/media/microsoft_logo1.6d1ccdcc.png",
     "static/media/muffito_logo.png": "/Portfolio/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/Portfolio/static/media/nptel_logo.cd7077f7.png",
     "static/media/portfolio.gif": "/Portfolio/static/media/portfolio.6e7dc5ad.gif",
@@ -52,6 +56,7 @@
     "static/media/talksCardBack.svg": "/Portfolio/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/Portfolio/static/media/talksCardBackAlt.7f0feeed.svg",
     "static/media/tapan.jpg": "/Portfolio/static/media/tapan.406c1188.jpg",
+    "static/media/tapan_animated.gif": "/Portfolio/static/media/tapan_animated.f9035f95.gif",
     "static/media/tapan_logo.png": "/Portfolio/static/media/tapan_logo.b6c8d9e2.png",
     "static/media/tapan_logo_circled.png": "/Portfolio/static/media/tapan_logo_circled.7e17e79e.png",
     "static/media/tapan_new_logo.jpg": "/Portfolio/static/media/tapan_new_logo.92a98509.jpg",
@@ -60,8 +65,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5723c9d4.js",
-    "static/js/2.90540c54.chunk.js",
-    "static/css/main.2d9b9b0e.chunk.css",
-    "static/js/main.3975afcc.chunk.js"
+    "static/js/2.d8c4d1c0.chunk.js",
+    "static/css/main.8bbf800f.chunk.css",
+    "static/js/main.16990abb.chunk.js"
   ]
 }
