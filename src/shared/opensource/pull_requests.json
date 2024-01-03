@@ -1,6 +1,286 @@
 {
-  "closed": 11,
+  "closed": 13,
   "data": [
+    {
+      "id": "PR_kwDOBv73hs5itAuK",
+      "title": "misc: remove TODO from javascript-questions.md",
+      "url": "https://github.com/yangshun/front-end-interview-handbook/pull/406",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1315101?v=4",
+        "url": "https://github.com/yangshun",
+        "login": "yangshun"
+      },
+      "createdAt": "2023-12-23T21:24:06Z",
+      "number": 406,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "front-end-interview-handbook",
+        "url": "https://github.com/yangshun/front-end-interview-handbook",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1315101?v=4",
+          "login": "yangshun",
+          "url": "https://github.com/yangshun"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIEGbhs5eLHob",
+      "title": "Create upload gif feature",
+      "url": "https://github.com/lcrojano/Giphy_Explorer/pull/46",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5177737?u=82116f5ac719b0c3d0840f34c9ff724963b88c57&v=4",
+        "url": "https://github.com/lcrojano",
+        "login": "lcrojano"
+      },
+      "createdAt": "2023-10-30T23:01:01Z",
+      "number": 46,
+      "changedFiles": 2,
+      "additions": 57,
+      "deletions": 19,
+      "baseRepository": {
+        "name": "Giphy_Explorer",
+        "url": "https://github.com/lcrojano/Giphy_Explorer",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5177737?u=82116f5ac719b0c3d0840f34c9ff724963b88c57&v=4",
+          "login": "lcrojano",
+          "url": "https://github.com/lcrojano"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIEGbhs5eBD6J",
+      "title": "Github Button Dark mode",
+      "url": "https://github.com/lcrojano/Giphy_Explorer/pull/44",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5177737?u=82116f5ac719b0c3d0840f34c9ff724963b88c57&v=4",
+        "url": "https://github.com/lcrojano",
+        "login": "lcrojano"
+      },
+      "createdAt": "2023-10-28T01:04:50Z",
+      "number": 44,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Giphy_Explorer",
+        "url": "https://github.com/lcrojano/Giphy_Explorer",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5177737?u=82116f5ac719b0c3d0840f34c9ff724963b88c57&v=4",
+          "login": "lcrojano",
+          "url": "https://github.com/lcrojano"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIEGbhs5d7tMg",
+      "title": "Fixed github image",
+      "url": "https://github.com/lcrojano/Giphy_Explorer/pull/40",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-10-27T04:57:58Z",
+      "number": 40,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Giphy_Explorer",
+        "url": "https://github.com/lcrojano/Giphy_Explorer",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5177737?u=82116f5ac719b0c3d0840f34c9ff724963b88c57&v=4",
+          "login": "lcrojano",
+          "url": "https://github.com/lcrojano"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKZV0Qs5d7rAR",
+      "title": "Create SuffixArray.js",
+      "url": "https://github.com/diwakar1593/JavaScript-Problem/pull/66",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83621727?u=79709087b87959af598627df2e5251e5dda348b1&v=4",
+        "url": "https://github.com/diwakar1593",
+        "login": "diwakar1593"
+      },
+      "createdAt": "2023-10-27T04:45:31Z",
+      "number": 66,
+      "changedFiles": 1,
+      "additions": 37,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "JavaScript-Problem",
+        "url": "https://github.com/diwakar1593/JavaScript-Problem",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/83621727?u=79709087b87959af598627df2e5251e5dda348b1&v=4",
+          "login": "diwakar1593",
+          "url": "https://github.com/diwakar1593"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJX56t85d7pOg",
+      "title": "Create dabhitapan.json",
+      "url": "https://github.com/shyamtawli/devFind/pull/660",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104145978?u=bf46b4f51a4d6d73c66ca7b6f4e9dc0e9fd357e5&v=4",
+        "url": "https://github.com/shyamtawli",
+        "login": "shyamtawli"
+      },
+      "createdAt": "2023-10-27T04:35:29Z",
+      "number": 660,
+      "changedFiles": 2,
+      "additions": 14,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "devFind",
+        "url": "https://github.com/shyamtawli/devFind",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/104145978?u=bf46b4f51a4d6d73c66ca7b6f4e9dc0e9fd357e5&v=4",
+          "login": "shyamtawli",
+          "url": "https://github.com/shyamtawli"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJsfJGM5d7nRl",
+      "title": "Create LongestCommonPrefixLCP.js",
+      "url": "https://github.com/tic-it/hackIT/pull/44",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2023-10-27T04:23:31Z",
+      "number": 44,
+      "changedFiles": 2,
+      "additions": 35,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "hackIT",
+        "url": "https://github.com/tic-it/hackIT",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/119729328?u=c8fa0a2f4da4e74345d6577ad3dfcd2efc9a9a30&v=4",
+          "login": "tic-it",
+          "url": "https://github.com/tic-it"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKbTai85d7md4",
+      "title": "Create BinaryTree.js",
+      "url": "https://github.com/Pratikkakkad/HacktoberFest2023/pull/65",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2023-10-27T04:18:50Z",
+      "number": 65,
+      "changedFiles": 1,
+      "additions": 20,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "HacktoberFest2023",
+        "url": "https://github.com/Pratikkakkad/HacktoberFest2023",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/31759344?u=aaeb017d3263ede9d3c67cd4b699caad359ebd9d&v=4",
+          "login": "Pratikkakkad",
+          "url": "https://github.com/Pratikkakkad"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGLsIXM5d7jSB",
+      "title": "Create dabhitapan.md",
+      "url": "https://github.com/techhub-community/Hackbook/pull/168",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94756772?u=d020d647f7501d98208ea407630f27df32ff3be2&v=4",
+        "url": "https://github.com/arup1221",
+        "login": "arup1221"
+      },
+      "createdAt": "2023-10-27T03:58:50Z",
+      "number": 168,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Hackbook",
+        "url": "https://github.com/techhub-community/Hackbook",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/43721025?v=4",
+          "login": "techhub-community",
+          "url": "https://github.com/techhub-community"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGJWFGM5d7h_6",
+      "title": "Create HashTable.js",
+      "url": "https://github.com/AkshayNachappa/Hacktoberfest_101/pull/280",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2023-10-27T03:52:28Z",
+      "number": 280,
+      "changedFiles": 1,
+      "additions": 41,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Hacktoberfest_101",
+        "url": "https://github.com/AkshayNachappa/Hacktoberfest_101",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46316452?u=141e45106d237671b60dbfaec0ef6c5f35c0369c&v=4",
+          "login": "AkshayNachappa",
+          "url": "https://github.com/AkshayNachappa"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKSluHM5d7hd0",
+      "title": "Create Stack_dabhitapan.js",
+      "url": "https://github.com/Aman22sharma/Hacktoberfest2023-beginner/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40789486?u=11ce4d78ed78dc24e1f46228b9c3548e41118d7b&v=4",
+        "url": "https://github.com/Aman22sharma",
+        "login": "Aman22sharma"
+      },
+      "createdAt": "2023-10-27T03:48:52Z",
+      "number": 22,
+      "changedFiles": 1,
+      "additions": 94,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Hacktoberfest2023-beginner",
+        "url": "https://github.com/Aman22sharma/Hacktoberfest2023-beginner",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40789486?u=11ce4d78ed78dc24e1f46228b9c3548e41118d7b&v=4",
+          "login": "Aman22sharma",
+          "url": "https://github.com/Aman22sharma"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKaV-bs5d7HDG",
+      "title": "Hash Table with bucket chaining",
+      "url": "https://github.com/MdHRShohel/JS-OPP-DSA-Problems-Hacktoberfest2023/pull/224",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-10-27T00:59:14Z",
+      "number": 224,
+      "changedFiles": 2,
+      "additions": 102,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "JS-OPP-DSA-Problems-Hacktoberfest2023",
+        "url": "https://github.com/MdHRShohel/JS-OPP-DSA-Problems-Hacktoberfest2023",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/58442165?u=c4e1d6db3f2ad9cba602fae77fa47567a19a49b3&v=4",
+          "login": "MdHRShohel",
+          "url": "https://github.com/MdHRShohel"
+        }
+      }
+    },
     {
       "id": "PR_kwDOCFIHoc5CqfRj",
       "title": "Fixed README.md",
@@ -75,10 +355,10 @@
     {
       "id": "PR_kwDOII2tjc5Byiv6",
       "title": "Update hacktoberProfile.js",
-      "url": "https://github.com/CodeMacrocosm/profileathon-22/pull/61",
+      "url": "https://github.com/CodeMacrocosm/Profile-a-Thon-22/pull/61",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64030739?u=d71c13d569659e7a1e4f18fde2418472a996bdff&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64030739?u=607c9eb87b2e74671911b0cb17803f8cffa436e5&v=4",
         "url": "https://github.com/shreyamalogi",
         "login": "shreyamalogi"
       },
@@ -88,8 +368,8 @@
       "additions": 5,
       "deletions": 0,
       "baseRepository": {
-        "name": "profileathon-22",
-        "url": "https://github.com/CodeMacrocosm/profileathon-22",
+        "name": "Profile-a-Thon-22",
+        "url": "https://github.com/CodeMacrocosm/Profile-a-Thon-22",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/71088152?v=4",
           "login": "CodeMacrocosm",
@@ -817,7 +1097,7 @@
         "name": "x-solid",
         "url": "https://github.com/adlyloukil/x-solid",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/22683645?u=65320bec9f092d7ae48aeeba0b4c9564b20e19fc&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/22683645?u=64f2a9d5d15808cb0a2b71d5286366501fd88346&v=4",
           "login": "adlyloukil",
           "url": "https://github.com/adlyloukil"
         }
@@ -1588,7 +1868,7 @@
       }
     }
   ],
-  "merged": 50,
-  "open": 5,
-  "totalCount": 66
+  "merged": 57,
+  "open": 8,
+  "totalCount": 78
 }

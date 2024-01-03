@@ -1,1 +1,199 @@
-{"data":[{"id":"I_kwDOGJAElM49pREC","closed":true,"title":"Hacktoberfest Project not participating","createdAt":"2021-10-23T18:34:51Z","url":"https://github.com/ROM3107/HacktoberFest2021/issues/24","number":24,"assignees":{"nodes":[]},"repository":{"name":"HacktoberFest2021","url":"https://github.com/ROM3107/HacktoberFest2021","owner":{"login":"ROM3107","avatarUrl":"https://avatars.githubusercontent.com/u/56331079?u=87088b73846b76947b5637e04d260679523c6a2e&v=4","url":"https://github.com/ROM3107"}}},{"id":"MDU6SXNzdWU3MzI3MTI2NDE=","closed":false,"title":"Tried to register two views with the same name RNSVGRect","createdAt":"2020-10-29T22:43:41Z","url":"https://github.com/Jamyth/react-native-neu-element/issues/10","number":10,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/56388637?u=08b2b89a8b2a4dbd408be7a13220189e28697bc0&v=4","name":"Jamyth Luk","url":"https://github.com/Jamyth"}]},"repository":{"name":"react-native-neu-element","url":"https://github.com/Jamyth/react-native-neu-element","owner":{"login":"Jamyth","avatarUrl":"https://avatars.githubusercontent.com/u/56388637?u=08b2b89a8b2a4dbd408be7a13220189e28697bc0&v=4","url":"https://github.com/Jamyth"}}},{"id":"MDU6SXNzdWU2NDIxMTg5NjU=","closed":true,"title":"Select Multiple Contacts ","createdAt":"2020-06-19T17:16:34Z","url":"https://github.com/morenoh149/react-native-contacts/issues/527","number":527,"assignees":{"nodes":[]},"repository":{"name":"react-native-contacts","url":"https://github.com/morenoh149/react-native-contacts","owner":{"login":"morenoh149","avatarUrl":"https://avatars.githubusercontent.com/u/587438?u=e99f98644561191f6e231eff9267f685d877e1f4&v=4","url":"https://github.com/morenoh149"}}},{"id":"MDU6SXNzdWU2MTI5MDc4MDk=","closed":true,"title":"textTransform & knob style","createdAt":"2020-05-05T21:31:14Z","url":"https://github.com/wix/react-native-calendars/issues/1136","number":1136,"assignees":{"nodes":[]},"repository":{"name":"react-native-calendars","url":"https://github.com/wix/react-native-calendars","owner":{"login":"wix","avatarUrl":"https://avatars.githubusercontent.com/u/686511?v=4","url":"https://github.com/wix"}}},{"id":"MDU6SXNzdWU0NTcyMzQ0Njk=","closed":true,"title":"Slider arrows not visible","createdAt":"2019-06-18T02:54:15Z","url":"https://github.com/gatsbyjs/mdx-deck-theme/issues/14","number":14,"assignees":{"nodes":[]},"repository":{"name":"mdx-deck-theme","url":"https://github.com/gatsbyjs/mdx-deck-theme","owner":{"login":"gatsbyjs","avatarUrl":"https://avatars.githubusercontent.com/u/12551863?v=4","url":"https://github.com/gatsbyjs"}}},{"id":"MDU6SXNzdWUzMzI0MjI5OTc=","closed":true,"title":"migration","createdAt":"2018-06-14T14:16:55Z","url":"https://github.com/dabhitapan/github-move/issues/3","number":3,"assignees":{"nodes":[]},"repository":{"name":"github-move","url":"https://github.com/dabhitapan/github-move","owner":{"login":"dabhitapan","avatarUrl":"https://avatars.githubusercontent.com/u/37927312?u=06270e19c6204ab3c0ecde8bd39f6aecd63fc04e&v=4","url":"https://github.com/dabhitapan"}}},{"id":"MDU6SXNzdWUzMzI0MjE4MjI=","closed":true,"title":"migration","createdAt":"2018-06-14T14:14:02Z","url":"https://github.com/dabhitapan/github-move/issues/2","number":2,"assignees":{"nodes":[]},"repository":{"name":"github-move","url":"https://github.com/dabhitapan/github-move","owner":{"login":"dabhitapan","avatarUrl":"https://avatars.githubusercontent.com/u/37927312?u=06270e19c6204ab3c0ecde8bd39f6aecd63fc04e&v=4","url":"https://github.com/dabhitapan"}}},{"id":"MDU6SXNzdWUzMzE2MDUxNzI=","closed":true,"title":"Request push access","createdAt":"2018-06-12T14:10:46Z","url":"https://github.com/githubschool/on-demand-github-pages/issues/3198","number":3198,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/37927312?u=06270e19c6204ab3c0ecde8bd39f6aecd63fc04e&v=4","name":"Tapan Dabhi","url":"https://github.com/dabhitapan"}]},"repository":{"name":"on-demand-github-pages","url":"https://github.com/githubschool/on-demand-github-pages","owner":{"login":"githubschool","avatarUrl":"https://avatars.githubusercontent.com/u/2271728?v=4","url":"https://github.com/githubschool"}}}],"open":1,"closed":7,"totalCount":8}
+{
+  "closed": 7,
+  "data": [
+    {
+      "id": "I_kwDOKfCGI851GRuX",
+      "closed": false,
+      "title": "Hash Table with bucket chaining",
+      "createdAt": "2023-10-27T00:51:12Z",
+      "url": "https://github.com/ossamamehmood/Hacktoberfest2023/issues/637",
+      "number": 637,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Hacktoberfest2023",
+        "url": "https://github.com/ossamamehmood/Hacktoberfest2023",
+        "owner": {
+          "login": "ossamamehmood",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40134503?u=7e904682c13c8417a2e87192abf110ba6de8524e&v=4",
+          "url": "https://github.com/ossamamehmood"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGJAElM49pREC",
+      "closed": true,
+      "title": "Hacktoberfest Project not participating",
+      "createdAt": "2021-10-23T18:34:51Z",
+      "url": "https://github.com/ROM3107/HacktoberFest2021/issues/24",
+      "number": 24,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "HacktoberFest2021",
+        "url": "https://github.com/ROM3107/HacktoberFest2021",
+        "owner": {
+          "login": "ROM3107",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56331079?u=87088b73846b76947b5637e04d260679523c6a2e&v=4",
+          "url": "https://github.com/ROM3107"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzI3MTI2NDE=",
+      "closed": false,
+      "title": "Tried to register two views with the same name RNSVGRect",
+      "createdAt": "2020-10-29T22:43:41Z",
+      "url": "https://github.com/Jamyth/react-native-neu-element/issues/10",
+      "number": 10,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/56388637?u=08b2b89a8b2a4dbd408be7a13220189e28697bc0&v=4",
+            "name": "Jamyth Luk",
+            "url": "https://github.com/Jamyth"
+          }
+        ]
+      },
+      "repository": {
+        "name": "react-native-neu-element",
+        "url": "https://github.com/Jamyth/react-native-neu-element",
+        "owner": {
+          "login": "Jamyth",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56388637?u=08b2b89a8b2a4dbd408be7a13220189e28697bc0&v=4",
+          "url": "https://github.com/Jamyth"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NDIxMTg5NjU=",
+      "closed": true,
+      "title": "Select Multiple Contacts ",
+      "createdAt": "2020-06-19T17:16:34Z",
+      "url": "https://github.com/morenoh149/react-native-contacts/issues/527",
+      "number": 527,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "react-native-contacts",
+        "url": "https://github.com/morenoh149/react-native-contacts",
+        "owner": {
+          "login": "morenoh149",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/587438?u=d5b0d1bb02ce0f24e4cb6889fbfa84b790aa27c3&v=4",
+          "url": "https://github.com/morenoh149"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MTI5MDc4MDk=",
+      "closed": true,
+      "title": "textTransform & knob style",
+      "createdAt": "2020-05-05T21:31:14Z",
+      "url": "https://github.com/wix/react-native-calendars/issues/1136",
+      "number": 1136,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "react-native-calendars",
+        "url": "https://github.com/wix/react-native-calendars",
+        "owner": {
+          "login": "wix",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/686511?v=4",
+          "url": "https://github.com/wix"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU0NTcyMzQ0Njk=",
+      "closed": true,
+      "title": "Slider arrows not visible",
+      "createdAt": "2019-06-18T02:54:15Z",
+      "url": "https://github.com/gatsbyjs/mdx-deck-theme/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "mdx-deck-theme",
+        "url": "https://github.com/gatsbyjs/mdx-deck-theme",
+        "owner": {
+          "login": "gatsbyjs",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12551863?v=4",
+          "url": "https://github.com/gatsbyjs"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWUzMzI0MjI5OTc=",
+      "closed": true,
+      "title": "migration",
+      "createdAt": "2018-06-14T14:16:55Z",
+      "url": "https://github.com/dabhitapan/github-move/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "github-move",
+        "url": "https://github.com/dabhitapan/github-move",
+        "owner": {
+          "login": "dabhitapan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37927312?u=06270e19c6204ab3c0ecde8bd39f6aecd63fc04e&v=4",
+          "url": "https://github.com/dabhitapan"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWUzMzI0MjE4MjI=",
+      "closed": true,
+      "title": "migration",
+      "createdAt": "2018-06-14T14:14:02Z",
+      "url": "https://github.com/dabhitapan/github-move/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "github-move",
+        "url": "https://github.com/dabhitapan/github-move",
+        "owner": {
+          "login": "dabhitapan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37927312?u=06270e19c6204ab3c0ecde8bd39f6aecd63fc04e&v=4",
+          "url": "https://github.com/dabhitapan"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWUzMzE2MDUxNzI=",
+      "closed": true,
+      "title": "Request push access",
+      "createdAt": "2018-06-12T14:10:46Z",
+      "url": "https://github.com/githubschool/on-demand-github-pages/issues/3198",
+      "number": 3198,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/37927312?u=06270e19c6204ab3c0ecde8bd39f6aecd63fc04e&v=4",
+            "name": "Tapan Dabhi",
+            "url": "https://github.com/dabhitapan"
+          }
+        ]
+      },
+      "repository": {
+        "name": "on-demand-github-pages",
+        "url": "https://github.com/githubschool/on-demand-github-pages",
+        "owner": {
+          "login": "githubschool",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2271728?v=4",
+          "url": "https://github.com/githubschool"
+        }
+      }
+    }
+  ],
+  "open": 2,
+  "totalCount": 9
+}
