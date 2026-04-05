@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "741fea24325de860bf4bd32981f1ebc6",
+    "revision": "9e8f4e74b9a36e5ac0dde6f5f006d0b8",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "da06eb28490be464788a",
+    "revision": "2303331e115a397cccbf",
     "url": "/Portfolio/static/css/main.8bbf800f.chunk.css"
   },
   {
-    "revision": "9eb330d4ed27797fd5b5",
-    "url": "/Portfolio/static/js/2.d8c4d1c0.chunk.js"
+    "revision": "c7f134c90516e1f01a2b",
+    "url": "/Portfolio/static/js/2.36666775.chunk.js"
   },
   {
-    "revision": "da06eb28490be464788a",
-    "url": "/Portfolio/static/js/main.16990abb.chunk.js"
+    "revision": "2303331e115a397cccbf",
+    "url": "/Portfolio/static/js/main.7ed1fc5a.chunk.js"
   },
   {
     "revision": "2516955c04bfe1f64103",
@@ -298,6 +298,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "92a9850979fc82e0eb8fe7d7258dd0e0",
     "url": "/Portfolio/static/media/tapan_new_logo.92a98509.jpg"
+  },
+  {
+    "revision": "b49fc9290237ac7247a557be5b25dfa1",
+    "url": "/Portfolio/static/media/tapan_profile.b49fc929.png"
   },
   {
     "revision": "76b15e52e0c8d6855f5957889a9ca3f6",
