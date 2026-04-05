@@ -2,26 +2,6 @@
   "closed": 7,
   "data": [
     {
-      "id": "I_kwDOKfCGI851GRuX",
-      "closed": false,
-      "title": "Hash Table with bucket chaining",
-      "createdAt": "2023-10-27T00:51:12Z",
-      "url": "https://github.com/ossamamehmood/Hacktoberfest2023/issues/637",
-      "number": 637,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Hacktoberfest2023",
-        "url": "https://github.com/ossamamehmood/Hacktoberfest2023",
-        "owner": {
-          "login": "ossamamehmood",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/40134503?u=7e904682c13c8417a2e87192abf110ba6de8524e&v=4",
-          "url": "https://github.com/ossamamehmood"
-        }
-      }
-    },
-    {
       "id": "I_kwDOGJAElM49pREC",
       "closed": true,
       "title": "Hacktoberfest Project not participating",
@@ -194,6 +174,6 @@
       }
     }
   ],
-  "open": 2,
-  "totalCount": 9
+  "open": 1,
+  "totalCount": 8
 }

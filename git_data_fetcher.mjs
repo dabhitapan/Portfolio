@@ -156,6 +156,7 @@ fetch(baseUrl, {
     cropped["merged"] = merged;
     cropped["totalCount"] = cropped["data"].length;
 
+    console.log({ cropped });
     console.log("Fetching the Pull Request Data.\n");
     fs.writeFile(
       "./src/shared/opensource/pull_requests.json",
@@ -285,6 +286,7 @@ fetch(baseUrl, {
       newProjects["data"].push(obj);
     }
 
+    console.log({ projects });
     console.log("Fetching the Pinned Projects Data.\n");
     fs.writeFile(
       "./src/shared/opensource/projects.json",

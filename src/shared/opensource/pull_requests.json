@@ -128,7 +128,7 @@
       "url": "https://github.com/shyamtawli/devFind/pull/660",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/104145978?u=bf46b4f51a4d6d73c66ca7b6f4e9dc0e9fd357e5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104145978?u=1533479dd3d672e8b8511c34fcebb752ff42e160&v=4",
         "url": "https://github.com/shyamtawli",
         "login": "shyamtawli"
       },
@@ -141,7 +141,7 @@
         "name": "devFind",
         "url": "https://github.com/shyamtawli/devFind",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/104145978?u=bf46b4f51a4d6d73c66ca7b6f4e9dc0e9fd357e5&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/104145978?u=1533479dd3d672e8b8511c34fcebb752ff42e160&v=4",
           "login": "shyamtawli",
           "url": "https://github.com/shyamtawli"
         }
@@ -241,7 +241,7 @@
       "url": "https://github.com/Aman22sharma/Hacktoberfest2023-beginner/pull/22",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/40789486?u=11ce4d78ed78dc24e1f46228b9c3548e41118d7b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40789486?u=0899fa5366e6c11814c95f847c6fcd15f732b614&v=4",
         "url": "https://github.com/Aman22sharma",
         "login": "Aman22sharma"
       },
@@ -254,7 +254,7 @@
         "name": "Hacktoberfest2023-beginner",
         "url": "https://github.com/Aman22sharma/Hacktoberfest2023-beginner",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/40789486?u=11ce4d78ed78dc24e1f46228b9c3548e41118d7b&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40789486?u=0899fa5366e6c11814c95f847c6fcd15f732b614&v=4",
           "login": "Aman22sharma",
           "url": "https://github.com/Aman22sharma"
         }
@@ -275,7 +275,7 @@
         "name": "JS-OPP-DSA-Problems-Hacktoberfest2023",
         "url": "https://github.com/MdHRShohel/JS-OPP-DSA-Problems-Hacktoberfest2023",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/58442165?u=c4e1d6db3f2ad9cba602fae77fa47567a19a49b3&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/58442165?u=ea12c23357bf0542dcf73a5ff4d7bca6711db0c4&v=4",
           "login": "MdHRShohel",
           "url": "https://github.com/MdHRShohel"
         }
@@ -355,10 +355,10 @@
     {
       "id": "PR_kwDOII2tjc5Byiv6",
       "title": "Update hacktoberProfile.js",
-      "url": "https://github.com/CodeMacrocosm/Profile-a-Thon-22/pull/61",
+      "url": "https://github.com/CodeMacrocosm/Profile-a-Thon/pull/61",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64030739?u=607c9eb87b2e74671911b0cb17803f8cffa436e5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64030739?u=9cf4ca30b2c4b8f8657bfdf6b3c4c8064d70d39d&v=4",
         "url": "https://github.com/shreyamalogi",
         "login": "shreyamalogi"
       },
@@ -368,8 +368,8 @@
       "additions": 5,
       "deletions": 0,
       "baseRepository": {
-        "name": "Profile-a-Thon-22",
-        "url": "https://github.com/CodeMacrocosm/Profile-a-Thon-22",
+        "name": "Profile-a-Thon",
+        "url": "https://github.com/CodeMacrocosm/Profile-a-Thon",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/71088152?v=4",
           "login": "CodeMacrocosm",
@@ -939,7 +939,7 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDIwNTAxMjI4",
       "title": "Tapan_Dabhi",
-      "url": "https://github.com/education/graduation/pull/69",
+      "url": "https://github.com/github-education-resources/graduation/pull/69",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/6633808?u=9a29bf6d4dd59835527fdbb00040b2b4dd9711be&v=4",
@@ -953,11 +953,11 @@
       "deletions": 0,
       "baseRepository": {
         "name": "graduation",
-        "url": "https://github.com/education/graduation",
+        "url": "https://github.com/github-education-resources/graduation",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/6667880?v=4",
-          "login": "education",
-          "url": "https://github.com/education"
+          "login": "github-education-resources",
+          "url": "https://github.com/github-education-resources"
         }
       }
     },
